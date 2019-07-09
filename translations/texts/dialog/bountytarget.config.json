@@ -629,7 +629,7 @@
     },
     "Texts": {
       "Eng": "Ha! ^orange;<gangName>^reset; forever!",
-      "Rus": ""
+      "Rus": "Ха! ^orange;<gangName>^reset; навсегда!"
     }
   },
   {
@@ -656,7 +656,7 @@
     },
     "Texts": {
       "Eng": "Hmph - I let my guard down!",
-      "Rus": ""
+      "Rus": "Хммм - я подвел свою охрану!"
     }
   },
   {
@@ -668,7 +668,7 @@
     },
     "Texts": {
       "Eng": "Hmph.",
-      "Rus": ""
+      "Rus": "Хммм."
     }
   },
   {
@@ -680,7 +680,7 @@
     },
     "Texts": {
       "Eng": "Hngh...",
-      "Rus": ""
+      "Rus": "Хммм..."
     }
   },
   {
@@ -704,7 +704,7 @@
     },
     "Texts": {
       "Eng": "How did I end up like this?",
-      "Rus": ""
+      "Rus": "Как я в конечном итоге, как это?"
     }
   },
   {
@@ -752,7 +752,7 @@
     },
     "Texts": {
       "Eng": "I ain't hazed a tenderfoot for a while! This'll be mighty fun!",
-      "Rus": ""
+      "Rus": "Я давно не трепал блондинку! Думаю, будет весело!"
     }
   },
   {
@@ -764,7 +764,7 @@
     },
     "Texts": {
       "Eng": "I ain't too proud o' how this went down...",
-      "Rus": ""
+      "Rus": "Я не очень доволен, как все прошло ..."
     }
   },
   {
@@ -788,7 +788,7 @@
     },
     "Texts": {
       "Eng": "I am a sovereign galactic citizen and you have no right to arrest me!",
-      "Rus": ""
+      "Rus": "Я суверенный гражданин Галактики! Вы не имеете права арестовывать меня!"
     }
   },
   {
@@ -800,7 +800,7 @@
     },
     "Texts": {
       "Eng": "I am at your mercy! Please do not imprison me!",
-      "Rus": ""
+      "Rus": "Я в твоей власти! Пожалуйста, не заключайте меня в тюрьму!"
     }
   },
   {
@@ -812,7 +812,7 @@
     },
     "Texts": {
       "Eng": "I am slipperier than a snaunt and swifter than a jetstream. You shall not catch me easily!",
-      "Rus": ""
+      "Rus": "Я скользкий и быстрее чем реактивный поток! Вы не поймаете меня легко!"
     }
   },
   {
@@ -911,7 +911,7 @@
     },
     "Texts": {
       "Eng": "I don't blame them for running away - they WERE messing with the ^orange;<gangName>^reset;!",
-      "Rus": ""
+      "Rus": "Я не виню их за то, что они сбежали - они БЕСПОКОЛИЛИСЬ с ^orange;<gangName>^reset;!"
     }
   },
   {
