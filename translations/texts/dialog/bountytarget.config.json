@@ -934,7 +934,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I guess I was at the bottom of the pecking order..."
+      "Eng": "I guess I was at the bottom of the pecking order...",
+      "Rus": "Я думаю, что я был в нижней части приказа клевать..."
     }
   },
   {
@@ -945,7 +946,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have failed the ^orange;<gangName>^reset;!"
+      "Eng": "I have failed the ^orange;<gangName>^reset;!",
+      "Rus": "Я проиграл в ^ оранжевом; <gangName> ^ reset ;!"
     }
   },
   {
@@ -956,7 +958,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have many regrets right now!"
+      "Eng": "I have many regrets right now!",
+      "Rus": "Я сожелею!"
     }
   },
   {
@@ -967,7 +970,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have... Failed."
+      "Eng": "I have... Failed.",
+      "Rus": "Мне... Мне не удалось."
     }
   },
   {
@@ -978,7 +982,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I know when I've lost! Just stop attacking me!"
+      "Eng": "I know when I've lost! Just stop attacking me!",
+      "Rus": "Я знаю, что я проиграл! Перестань уже нападать на меня!"
     }
   },
   {
@@ -989,7 +994,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I may have lost, but I fought well!"
+      "Eng": "I may have lost, but I fought well!",
+      "Rus": "Возможно, я проиграл, но я боролся хорошо!"
     }
   },
   {
@@ -1000,7 +1006,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I probably should have fled sooner. My arrogance has been my downfall."
+      "Eng": "I probably should have fled sooner. My arrogance has been my downfall.",
+      "Rus": "Я, наверное, должен был бежать раньше. Мое высокомерие было моим падением."
     }
   },
   {
@@ -1011,7 +1018,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I shall show the true might of the ^orange;<gangName>^reset;!"
+      "Eng": "I shall show the true might of the ^orange;<gangName>^reset;!",
+      "Rus": "Я покажу истинную мощь ^orange;<gangName>^reset;!"
     }
   },
   {
@@ -1022,7 +1030,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I shouldn't have lowered my defenses..."
+      "Eng": "I shouldn't have lowered my defenses...",
+      "Rus": "Я не должен был снижать свою защиту..."
     }
   },
   {
@@ -1036,7 +1045,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I suppose they fled. I don't blame them - they WERE messing with the ^orange;<gangName>^reset;!"
+      "Eng": "I suppose they fled. I don't blame them - they WERE messing with the ^orange;<gangName>^reset;!",
+      "Rus": "Я полагаю, они сбежали. Я не виню их - они БЕСПОКОЛИЛИСЬ с ^orange;<gangName>^reset;!"
     }
   },
   {
@@ -1047,7 +1057,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I thought I was winning..."
+      "Eng": "I thought I was winning...",
+      "Rus": "Я думал, что выиграл..."
     }
   },
   {
@@ -1058,7 +1069,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I thought they would send more Peacekeepers than this!"
+      "Eng": "I thought they would send more Peacekeepers than this!",
+      "Rus": "Я думал, что они отправят больше миротворцев!"
     }
   },
   {
@@ -1069,7 +1081,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I thought they would send someone more impressive to arrest me!"
+      "Eng": "I thought they would send someone more impressive to arrest me!",
+      "Rus": "Я думал, что они отправят кого-то более внушительного, чтобы арестовать меня!"
     }
   },
   {
@@ -1080,7 +1093,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I underestimated you, Peacekeeper. You got me fair and square."
+      "Eng": "I underestimated you, Peacekeeper. You got me fair and square.",
+      "Rus": ""
     }
   },
   {
@@ -1091,7 +1105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I underestimated you, Peacekeeper..."
+      "Eng": "I underestimated you, Peacekeeper...",
+      "Rus": ""
     }
   },
   {
@@ -1102,7 +1117,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I warn yer, I ain't easily caught!"
+      "Eng": "I warn yer, I ain't easily caught!",
+      "Rus": ""
     }
   },
   {
@@ -1116,7 +1132,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I warn you, I'm not easily caught!"
+      "Eng": "I warn you, I'm not easily caught!",
+      "Rus": ""
     }
   },
   {
@@ -1127,7 +1144,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I was truly bested in combat, was I not?"
+      "Eng": "I was truly bested in combat, was I not?",
+      "Rus": ""
     }
   },
   {
@@ -1138,7 +1156,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I will not be accosted!"
+      "Eng": "I will not be accosted!",
+      "Rus": ""
     }
   },
   {
@@ -1149,7 +1168,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I will remember this!"
+      "Eng": "I will remember this!",
+      "Rus": ""
     }
   },
   {
@@ -1160,7 +1180,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I won't fit in in prison! I regret my actions gravely!"
+      "Eng": "I won't fit in in prison! I regret my actions gravely!",
+      "Rus": ""
     }
   },
   {
@@ -1171,7 +1192,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'll be back one day!"
+      "Eng": "I'll be back one day!",
+      "Rus": ""
     }
   },
   {
@@ -1182,7 +1204,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'll be back!"
+      "Eng": "I'll be back!",
+      "Rus": ""
     }
   },
   {
@@ -1194,7 +1217,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'll be back, just you wait!"
+      "Eng": "I'll be back, just you wait!",
+      "Rus": ""
     }
   },
   {
@@ -1205,7 +1229,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'll be out soon enough, and you know it!"
+      "Eng": "I'll be out soon enough, and you know it!",
+      "Rus": ""
     }
   },
   {
